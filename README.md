@@ -13,7 +13,7 @@
 </div>
 
 ## Preview
-![Preview](https://www.weirdbandkid.games/cdn/img/rpc.png)
+![Preview](https://cdn.weirdbandkid.games/img/rpc.png)
 
 ## Installation
 `git clone https://github.com/weirdbandkid-games/discordrpc.git`
